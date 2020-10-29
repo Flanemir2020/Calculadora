@@ -1,0 +1,92 @@
+.title{
+    font-size: 40px;
+    color: white;
+    margin-left: 7%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.quadro{
+    background-image: linear-gradient(to right, #03c7ff +30%, white);
+    
+}
+body{
+    margin: 0 auto;
+}
+.centro{
+    margin-top: 30px;
+    color: red;
+}
+.tabela{
+    background-image: linear-gradient(to right, #03c7ff +30%, #f0f0f0);
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    color: red;
+
+}
+input{
+    margin-top: 20px;
+    width: 150px;
+    height: 25px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 30px;
+    outline-color: lightskyblue;
+    
+}
+button{
+    margin-top: 20px;
+    background-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    color: #03c7ff;
+    width: 100px;
+    border-color: white;
+    border-radius: 30px;
+    outline-color: lightskyblue;
+   
+}
+.resultado{
+    color: red;
+    font-size: 30px;
+}
+
+.matd{
+    background-color: blueviolet;
+    width: 300px;
+    height: 200px;
+}
+button:active{
+    outline-color: lightskyblue;
+    
+    
+}
+button :hover{
+    color: #008ffe;
+    border-radius: 50px;
+}
+img{
+    width: 100px;
+    height: 90px;
+    margin-top: 20px;
+    
+}
+.circulo{
+    background-color: #03c7ff ;
+    border-style: solid;
+    border-color: #96e9f8;
+    border-width: 30px;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.by{
+    color: #03c7ff ;
+    font-style: italic;
+}
